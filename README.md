@@ -88,7 +88,7 @@ legal-ai-pro/
 ├── ai_services.py          # All AI logic and model functions
 ├── utils.py                # Common utilities and helpers
 ├── ui_components.py        # Styling and UI elements
-
+├── datasets/               # Folder containing datasets
 ├── tabs/                   # Modular tabs for each feature
 │   ├── search_tab.py       # Semantic Search
 │   ├── analysis_tab.py     # Case Analysis + Petition Gen
