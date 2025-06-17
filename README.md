@@ -18,6 +18,16 @@ The goal of **LegalAI Pro** is to streamline legal document processing using art
 Whether you're searching semantically across case law, extracting critical judgment metadata, or generating petitions based on case summaries — this tool helps you work **smarter, not harder**.
 
 ---
+## 🖥️ Example Screenshot
+
+Here’s a quick preview of LegalAI-PRO in action:
+
+![LegalAI Pro Demo](assets/demo1.jpg)
+![LegalAI Pro Demo](assets/demo2.jpg)
+![LegalAI Pro Demo](assets/demo3.jpg)
+![LegalAI Pro Demo](assets/demo4.jpg)
+![LegalAI Pro Demo](assets/demo5.jpg)
+---
 
 ## 🛠️ Technologies Used
 
